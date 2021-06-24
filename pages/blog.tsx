@@ -30,7 +30,7 @@ export default function Blog({ posts }: any) {
   return (
     <>
       <Head>
-        <title>Blog - Benjamin Carlson</title>
+        <title>Blog - Aulia Rahman</title>
       </Head>
       <Container>
         <Stack
